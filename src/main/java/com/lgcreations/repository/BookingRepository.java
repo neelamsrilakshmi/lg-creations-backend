@@ -1,0 +1,9 @@
+
+package com.lgcreations.repository;
+
+import com.lgcreations.model.Booking;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+public interface BookingRepository extends JpaRepository<Booking, Long> {
+}
