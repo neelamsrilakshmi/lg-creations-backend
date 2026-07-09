@@ -11,8 +11,8 @@
 	<groupId>com.lgcreations</groupId>
 	<artifactId>lg-backend</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
+	<name>lg-backend</name>
+	<description>L&G Creations Backend</description>
 	<url/>
 	<licenses>
 		<license/>
